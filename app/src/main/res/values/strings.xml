@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Trivia Game</string>
+    <string name="log_in">LOG IN</string>
+    <string name="register">REGISTER</string>
+    <string name="username_trivia">Username: Trivia</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="next">Next</string>
+    <string name="trivia">Trivia</string>
+</resources>
